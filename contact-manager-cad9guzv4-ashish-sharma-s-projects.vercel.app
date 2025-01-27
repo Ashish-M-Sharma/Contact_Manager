@@ -1,6 +1,4 @@
 
-contact-manager-cad9guzv4-ashish-sharma-s-projects.vercel.app
-
 This projects uses local server i.e. JSON server 
 
 
